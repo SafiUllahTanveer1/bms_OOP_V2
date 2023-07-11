@@ -1,0 +1,7 @@
+C:\Users\Dictator\RiderProjects\Safi Ullah tanveer 4873 Assignment 2 V2\Safi Ullah tanveer 4873 Assignment 2 V2\bin\Debug\Safi_Ullah_tanveer_4873_Assignment_2_V2.exe
+C:\Users\Dictator\RiderProjects\Safi Ullah tanveer 4873 Assignment 2 V2\Safi Ullah tanveer 4873 Assignment 2 V2\bin\Debug\Safi_Ullah_tanveer_4873_Assignment_2_V2.pdb
+C:\Users\Dictator\RiderProjects\Safi Ullah tanveer 4873 Assignment 2 V2\Safi Ullah tanveer 4873 Assignment 2 V2\obj\Debug\Safi Ullah tanveer 4873 Assignment 2 V2.csproj.AssemblyReference.cache
+C:\Users\Dictator\RiderProjects\Safi Ullah tanveer 4873 Assignment 2 V2\Safi Ullah tanveer 4873 Assignment 2 V2\obj\Debug\Safi Ullah tanveer 4873 Assignment 2 V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dictator\RiderProjects\Safi Ullah tanveer 4873 Assignment 2 V2\Safi Ullah tanveer 4873 Assignment 2 V2\obj\Debug\Safi Ullah tanveer 4873 Assignment 2 V2.csproj.CoreCompileInputs.cache
+C:\Users\Dictator\RiderProjects\Safi Ullah tanveer 4873 Assignment 2 V2\Safi Ullah tanveer 4873 Assignment 2 V2\obj\Debug\Safi_Ullah_tanveer_4873_Assignment_2_V2.exe
+C:\Users\Dictator\RiderProjects\Safi Ullah tanveer 4873 Assignment 2 V2\Safi Ullah tanveer 4873 Assignment 2 V2\obj\Debug\Safi_Ullah_tanveer_4873_Assignment_2_V2.pdb
